@@ -1,0 +1,21 @@
+{
+  "name": "banking-auth-system",
+  "version": "1.0.0",
+  "description": "Production-grade JWT authentication system for a banking application with microservices architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wafishmam/banking-auth-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/wafishmam/banking-auth-system/issues"
+  },
+  "homepage": "https://github.com/wafishmam/banking-auth-system#readme"
+}
